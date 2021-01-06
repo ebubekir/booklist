@@ -1,2 +1,2 @@
 # booklist
-A booklist app developed with Javascript.
+A booklist app developed with Javascript
